@@ -1,0 +1,49 @@
+# Core ML / Deep Learning
+torch
+tensorflow
+transformers
+datasets
+peft
+accelerate
+safetensors
+sentencepiece
+
+# API / Server
+fastapi
+uvicorn
+python-multipart
+pydantic
+python-dotenv
+
+# Data Science & Utilities
+numpy
+pandas
+scikit-learn
+scipy
+joblib
+tqdm
+typing-extensions
+
+# Computer Vision
+opencv-python
+
+
+# Visualization (headless-safe)
+matplotlib
+seaborn
+plotly
+
+# ML Experiment Tracking
+mlflow
+
+# OpenAI API
+openai
+
+pyyaml
+pathlib
+openpyxl
+xlrd
+xgboost
+statsmodels
+pmdarima
+pillow
